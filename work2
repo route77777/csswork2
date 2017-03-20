@@ -1,0 +1,189 @@
+body{
+	font-family: 'microsoft yahei';
+margin: 0;
+padding: 0;
+width: 85%;
+display: block;
+background: black;
+margin: 0 auto;
+}
+.beijing1{
+	display: block;
+	width: 85%;
+	margin: 0 auto;
+	margin-top: 2em;
+background: rgb(222,222,222);
+margin-bottom: 2em;
+position: absolute;
+}
+h3{
+	color:grey;
+	line-height: 0.5em;
+}
+ p label#zuozhe{
+	font-size: 0.8em;
+	color:grey;
+	opacity: 70%;
+	font-weight: bold;
+}
+ul{
+	text-decoration: none;
+	
+}
+ul li{
+ list-style: none;
+	padding-left: -1.5em;
+    
+}
+ #first-part{
+ 	margin: 1em 1.5em;
+	background:white;
+	border-radius: 0.1em;
+	padding: 1em 2em;
+	margin-top: 2em;
+	box-shadow:  1px 1px 1px #888888;
+
+}
+#tupian{
+color:black;}
+.HaoKan{
+	margin: 0;
+	padding: 0;
+	border:1px solid rgb(222,222,222);
+	display: table;
+	width: 12%;
+	margin: 0 auto 1em 2em;
+}
+.HaoKan img{
+  display: table;
+  margin: 0 auto 1em;
+	width: 80%;
+}
+
+.haokan p{
+	padding: -0.5em 0 0 0;
+ text-align: center;
+	font-size: 0.8em;
+}
+#button{
+	color:white;
+	background: rgb(51,85,208);
+	width: 98%;
+	text-align: center;
+	border-radius: 0.6em;
+	padding: 0.5em;
+	margin-left:1%;
+
+}
+#break{
+	text-indent: 2em;
+}
+.buttom{
+	background: rgb(204,204,204);
+}
+a:hover,a:linked,a:visited{
+	color:black;
+}
+.lastpart{
+	display: table;
+	margin: 0 auto;
+}
+table{
+	border:1px;
+	width: 98%;
+border-collapse: collapse;
+line-height: 2em;
+height: 2em;
+
+
+}
+table th,td{
+	padding-left: 0.5em;
+}
+.wenben{
+	margin: 0;
+	padding: 0;
+	margin-left: 2em;
+
+}
+.wenan{
+margin: 0 auto;
+
+	text-align: right;
+	overflow: hidden;
+
+}
+.left{
+	text-align: right;
+	width: 15em;
+
+}
+.left td{
+
+}
+.teshu{
+	text-align: right;
+	
+}
+.title{
+	\
+	background: black;
+	text-align: left;
+	color:white;
+	border-collapse: none;
+
+}
+.celan{
+	clear: both;
+	color: black;
+}
+.tishi{
+	margin: 0;
+	padding: 0;
+
+	display: block;
+  margin-left: 2em;
+	color:rgb(222,222,222);
+}
+input{
+	display: inline-block;
+
+	margin-bottom: 2.5em;
+	height: 3em;
+	width: 15em;
+}
+select{
+	text-align: center;
+}
+.aihao{
+	display: block;
+	margin-top: 1.5em;
+}
+option{
+	display: block;
+	width:2.5em;
+	text-align: center;
+}
+.right{
+	text-align:left;
+}
+.danxuan{
+	text-align: left;
+	width: 70em;
+
+}
+textarea{
+	display: block;
+	width: 65em;
+	height: 10em;
+	margin-bottom: 2em;
+
+}
+.danxuan{
+	display:inline;
+	float: left;
+
+}
+.fuxuan{
+	text-align: left;
+}
